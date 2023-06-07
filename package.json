@@ -1,0 +1,14 @@
+{
+  "name": "blockchainapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.4.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
